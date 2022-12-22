@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a Computer Engineering Major at UT Arlington!
-I'm focusing in Mechatronics and Unmanned Vehicle Systems!
+I'm a Computer Engineer and Pilot!
+I love to work on aircraft systems!
 
 
 ## 🌐 Socials:
