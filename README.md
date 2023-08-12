@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a Computer Engineer and Pilot!
-I love to work on aircraft systems!
+I'm a Computer Engineer/Research Scientist and Pilot!
+I love to work on aircraft systems and simulation!
 
 
 ## 🌐 Socials:
